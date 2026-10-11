@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university>
+
+    <students>
+        <student id="S1">
+            <name>Amine Mefteh</name>
+            <level>LSI3</level>
+        </student>
+        <student id="S2">
+            <name>chedi dammek</name>
+            <level>LSI3</level>
+        </student>
+        <student id="S3">
+            <name>Youssef Trabelsi</name>
+            <level>LSI2</level>
+        </student>
+        <student id="S4">
+            <name>Ines Gharbi</name>
+            <level>LSI1</level>
+        </student>
+    </students>
+
+    <professors>
+        <professor id="P1">
+            <name>Hela Hakim</name>
+        </professor>
+        <professor id="P2">
+            <name>Rim Mohamed</name>
+        </professor>
+        <professor id="P3">
+            <name>Corinne Amel Zayani</name>
+        </professor>
+    </professors>
+
+    <courses>
+        <course id="C1">
+            <title>Architecture SOA et Services Web</title>
+            <professorId>P1</professorId>
+        </course>
+        <course id="C2">
+            <title>Machine Learning</title>
+            <professorId>P2</professorId>
+        </course>
+        <course id="C3">
+            <title>Bases de Donnees</title>
+            <professorId>P3</professorId>
+        </course>
+    </courses>
+
+</university>
